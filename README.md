@@ -15,4 +15,3 @@ Model testing: Apply the trained model to new, unseen images to generate segment
 Post-processing: Apply post-processing techniques such as morphological operations and filtering to clean up the segmentation masks and improve the accuracy of the model.
 
 Overall, building segmentation using the UNet model can be an effective way to automatically detect and isolate building structures in images, with a wide range of applications in fields such as urban planning, disaster response, and environmental monitoring.
-![image](https://user-images.githubusercontent.com/80384655/231007662-540ee238-88f0-4fa6-9c1c-af3782f02c8e.png)
