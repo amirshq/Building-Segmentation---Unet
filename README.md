@@ -6,7 +6,7 @@ Data preparation: Gather a set of labeled images of building structures to use a
 
 Data augmentation: Generate additional training data by applying random transformations to the original images, such as rotations, flips, and scaling.
 
-Model training: Train the UNet model on the augmented training data. The model takes an image as input and outputs a pixel-wise prediction of the building structures.
+Model training:Train the UNet model on the augmented training data. The model takes an image as input and outputs a pixel-wise prediction of the building structures.
 
 Model validation: Evaluate the performance of the model on a separate set of validation images. Use metrics such as accuracy, precision, recall, and F1 score to measure the quality of the model's predictions.
 
