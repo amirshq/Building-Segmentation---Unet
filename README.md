@@ -10,7 +10,7 @@ Model training:Train the UNet model on the augmented training data. The model ta
 
 Model validation: Evaluate the performance of the model on a separate set of validation images. Use metrics such as accuracy, precision, recall, and F1 score to measure the quality of the model's predictions.
 
-Model testing: Apply the trained model to new, unseen images to generate segmentation masks of building structures.
+Model testing:Apply the trained model to new, unseen images to generate segmentation masks of building structures.
 
 Post-processing: Apply post-processing techniques such as morphological operations and filtering to clean up the segmentation masks and improve the accuracy of the model.
 
